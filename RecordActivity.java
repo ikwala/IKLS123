@@ -61,6 +61,7 @@ public class RecordActivity extends AppCompatActivity {
             list.get(position).getNumCloth3() + list.get(position).getNumCloth4()));
 
 
+
         }
 
 

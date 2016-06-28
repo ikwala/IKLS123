@@ -31,6 +31,7 @@ public class CheckActivity extends AppCompatActivity {
                 Intent i = new Intent(CheckActivity.this, NewUserActivity.class);
                 startActivity(i);
                 finish();
+
             }
         });
     }

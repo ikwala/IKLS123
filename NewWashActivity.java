@@ -154,6 +154,7 @@ public class NewWashActivity extends AppCompatActivity {
         });
     }
 
+
     public String setDate()
     {
         String date;

@@ -152,6 +152,7 @@ public class IKLSModulator
 
     private ContentValues getContentValueOrder(Orders orders)
     {
+
         ContentValues values = new ContentValues();
         values.put(OrdersTable.Cols.OrderNumber, orders.getOrderNumber());
         values.put(OrdersTable.Cols.Date, orders.getDate());

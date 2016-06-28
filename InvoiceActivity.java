@@ -16,7 +16,6 @@ public class InvoiceActivity extends AppCompatActivity {
     TextView tvInvClothe1;
     TextView tvInvClothe2;
     TextView tvInvClothe3;
-    String str;
     TextView tvInvClothe4;
     TextView tvInvNumCloth1;
     TextView tvInvNumCloth2;

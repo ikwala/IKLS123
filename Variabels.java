@@ -28,6 +28,7 @@ public class Variabels
     public static String orderCondition = "";
 
 
+
     //Variabels for Records
     public static int recOrderNumber = 0;
     public static String recDate = "";

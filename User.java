@@ -18,6 +18,7 @@ public class User
     public User(String firstName, String middleName, String lastName, int phoneNumber,
                 String city, String emirates, String street, String eMail, String password)
     {
+
         this.setFirstName(firstName);
         this.setMiddleName(middleName);
         this.setLastName(lastName);

@@ -50,6 +50,7 @@ public class MainActivity extends AppCompatActivity {
         }
 
 
+
         btnNewWash = (Button) findViewById(R.id.btnNewWash);
         btnNewWash.setOnClickListener(new View.OnClickListener()
         {

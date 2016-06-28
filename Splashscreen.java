@@ -22,6 +22,7 @@ public class Splashscreen extends Activity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splashscreen);
         StartAnimations();
+
     }
     private void StartAnimations() {
         Animation anim = AnimationUtils.loadAnimation(this, R.anim.alpha);
